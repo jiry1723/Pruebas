@@ -1,6 +1,6 @@
-#Proyecto Poo
+# Proyecto Poo
 
-# Integrantes del Proyecto
+## Integrantes del Proyecto
 
 | Nombre | Apellido | Carrera | Usuario |
 |---------|----------|----------|----------|
