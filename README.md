@@ -1,5 +1,7 @@
 # Proyecto Poo
 
+Descripcion del proyecto
+
 ## Integrantes del Proyecto
 
 | Nombre | Apellido | Carrera | Usuario |
