@@ -26,7 +26,7 @@ Primer codigo en python
 
 Una imagen de una starship **(Porque no?)**
 
-![Texto alternativo](Sources/starship1.png)
+![Imagen de starship](Sources/starship1.png)
 
 ## xxx
 
