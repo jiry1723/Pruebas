@@ -19,7 +19,8 @@ Aqui va todas las aportaciones
 ## Luis Mendoza
 
 Aqui va todas las aportaciones
-[Python](Carpeta 1/test.py)
+Primer codigo en python
+[Python](Carpeta 1-test.py)
 
 ## xxx
 
