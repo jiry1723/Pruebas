@@ -24,7 +24,7 @@ Primer codigo en python
 
 [Python](Sources)
 
-![Texto alternativo](Sources-starship1.jfif)
+![Texto alternativo](Sources-starship1.png)
 
 ## xxx
 
