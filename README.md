@@ -19,8 +19,10 @@ Aqui va todas las aportaciones
 ## Luis Mendoza
 
 Aqui va todas las aportaciones
+
 Primer codigo en python
-[Python](Carpeta 1)
+
+[Texto](Archivo-1)
 
 ## xxx
 
