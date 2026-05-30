@@ -20,7 +20,7 @@ Aqui va todas las aportaciones
 
 Aqui va todas las aportaciones
 Primer codigo en python
-[Python](Carpeta 1-test.py)
+[Python](Carpeta 1)
 
 ## xxx
 
