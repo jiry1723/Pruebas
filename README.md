@@ -1,5 +1,29 @@
-# Pruebas
-esta es una prueba para intentar hacer un repositorio
-hola
-## Este es un texto un poco mas pequeño
-### Este es un texto aun mas pequeño
+# Proyecto Poo
+
+Descripcion del proyecto
+
+## Integrantes del Proyecto
+
+| Nombre | Apellido | Carrera | Usuario |
+|---------|----------|----------|----------|
+| Ricardo    | Fiallos    | Computacion | jiry1723   |
+| Luis   | Mendoza    | Computacion | luis86129   |
+| xxx  | xxx    | xxx       | xxx   |
+| xxx     | xxx   | xxx | xxx |
+
+
+## Ricardo Fiallos
+
+Aqui va todas las aportaciones
+
+## Luis Mendoza
+
+Aqui va todas las aportaciones
+
+## xxx
+
+Aqui va todas las aportaciones
+
+## xxx
+
+Aqui va todas las aportaciones
